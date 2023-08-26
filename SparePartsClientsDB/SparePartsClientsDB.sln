@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparePartsClientsDB", "SparePartsClientsDB\SparePartsClientsDB.csproj", "{32D5D13E-FDD7-4496-8E8F-8B823519ED4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D5D13E-FDD7-4496-8E8F-8B823519ED4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D5D13E-FDD7-4496-8E8F-8B823519ED4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D5D13E-FDD7-4496-8E8F-8B823519ED4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D5D13E-FDD7-4496-8E8F-8B823519ED4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C6333B3-E63E-4237-9A20-52A17D39CF3A}
+	EndGlobalSection
+EndGlobal
